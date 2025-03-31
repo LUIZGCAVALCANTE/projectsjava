@@ -6,8 +6,21 @@ SISTEMA DE AUTENTICAÇÃO
 
 
 
- Funcionalidades do Sistema
 
+ Funcionalidades do Sistema
+SISTEMA DE AUTENTICAÇÃO
+AUTENTICA GESTOR PARA ACESSO A CMDS.
+
+ 
+COMANDOS DE GESTOR
+- CADASTRA AUTORES
+- CADASTRA OBRAS
+- CADASTRA USUARIOS
+ 
+CADASTRA USUARIOS
+- CADASTRO DE USUARIOS
+- SISTEMA DE VALIDAÇÃO DE USUARIO
+- 
  Gerenciamento de Livros
 
 - **Adicionar um novo livro**:
